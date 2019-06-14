@@ -1,0 +1,207 @@
+@charset "utf-8";
+/* CSS Document */
+.tong { width:1360px; 
+		height:2300px; 
+		margin-left:0px;
+		}
+.top  { width:1360px; 
+		height:50px; 
+		background-color:#fff; 
+		float:left;
+		}
+.top ul { list-style-type:none;
+		   margin:auto;}
+.top ul li { display:inline;
+			  width:150px;
+			  height:40px;
+			  line-height:40px;
+			  text-align:center;
+			  float:right;
+			  font-size:20px;
+			  border-right:solid 1px #999999;
+			}		
+#tao {}		
+.top a { text-decoration:none; color:#000;}		
+		
+		
+.center {   width:1360px; 
+			height:1800px;  
+			float:left;
+			}
+.center img { float:left;}
+.anh {  width:1360px; 
+		height:540px; 
+		float:left; 
+		background-image:url(%E1%BA%A3nh/af46688ce.jpg);
+		text-align:center;
+		position:relative;
+		}
+.anh b { font-size:30px;
+		 margin-top: 20px;}
+.anh p { font-size:20px;}
+.tim { width:650px;
+	   height:280px;
+	   position:absolute;
+	   top:25%;
+	   left:27%;}
+.search { width:650px;
+		  height:80px;
+		  float:left;
+		  background-color:#fff;
+		}			
+.search input[type="text"]{ width: 600px;
+	  						height:80px;
+      						box-sizing: border-box;
+      						border: 1px solid white;
+      						border-radius: 4px;
+      						outline: none;
+      						padding: 12px 14px;
+							font-size: 20px;
+							margin-right:0px;
+							}
+.search img{ float:left;
+  	   		 z-index: 1;
+	   		 margin-left:10px;
+	   		 margin-top:20px;
+	   		}
+.di { width: 320px;
+	  height: 80px;
+	  float: left;
+	  background-color:#fff;
+	  margin-top: 20px;
+	  }
+.di input[type="date"]{ width: 265px;
+						height: 80px;
+						visibility: visible;
+						float: right;
+						border: solid 0px;
+					  }
+.di img { float:left;
+		  margin-top:20px;
+		  margin-left:6px;
+		}				
+.ve { width: 320px;
+	  height: 80px;
+	  float: right;
+	  background-color:#fff;
+	  margin-top: 20px;
+	}
+.ve input[type="date"]{ width: 265px;
+						height: 80px;
+						visibility: visible;
+						margin-right:0px;
+						float:right;
+						border: solid 0px;
+					  }	
+.ve img { float:left;
+		  margin-top:20px;
+		  margin-left:6px;
+		}
+.nguoi { width: 440px;
+		 height: 80px;
+		 float: left;
+		 margin-top: 20px;
+		 background-color:#fff;
+		}
+.nguoi img { float: left;
+			 margin-top: 20px;
+			 margin-left:3px;
+			 }
+.nguoi input[type="text"]{ width: 300px;
+						   height:80px;
+						   float:right;
+						   border: solid 0px;
+						}		 
+form button { width:200px;
+			  height:80px;
+			  float:right;
+			  margin-top: 20px;
+			  font-size: 20px;
+			  font-family:Verdana, Geneva, sans-serif;
+			  }			 
+.km { width: 960px;
+	  height: 400px;
+	  margin:auto;
+	  margin-top:500px;
+	}
+.km table { margin:auto;
+			font-size: 22px;
+			font-family:"Courier New", Courier, monospace;
+			}
+.km table a { text-decoration:none;}
+hr { width:1000px;
+	 color:#999;
+	 margin-top: 20px;
+	 margin-bottom: 20px;
+	}
+.taisao { width: 960px;
+		  height: 750px;
+		  margin:auto;
+		  text-align:justify;
+		}
+#gia { width:900px;
+	   height:150px;
+	   background-color:#fff;
+	   margin:auto;
+	 }
+#gia img { float:left;}
+#gia p {}
+#pthuc { width:900px;
+	   	 height:150px;
+		 background-color:#fff;
+		 margin:auto;
+	}
+#pthuc img { float:right;}
+.taisao span { font-size:21px; 
+			   font-weight:bold
+				}
+.taisao p { font-size: 19px;
+			font-family:"Courier New", Courier, monospace;}
+.taisao b { font-family:"Courier New", Courier, monospace; 
+			font-size:22px;}
+
+.bottom { width:1360px; 
+		  height:450px; 
+		  background-color:#000; 
+		  float:left;
+		  }
+.bottom table { color:#FFF; margin:auto;}
+.bottom table img { float:left;
+					margin: 10px;}
+table td { font-size:21px;}
+.bottom table a { text-decoration:none;
+		   color:#999;}
+		   
+.dk { width:500px;
+	  height: 360px;
+	  margin:auto;
+	  background-color:#09C;
+	}
+	
+.dk form { background-color:#FFF;
+		   margin-left: 10px;
+		   margin-right:10px;
+		   }	
+.dk form table { margin: auto;}
+
+.dk table input[type="text"], input[type="password"] { width:350px; height:40px; border:solid 1px #000000
+}	
+
+.dk table input[type="button"] { margin:auto;
+								 width:100px;
+								 height:40px;}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
